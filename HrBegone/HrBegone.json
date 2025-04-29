@@ -1,0 +1,17 @@
+{
+    "Author": "Ted",
+    "Name": "Hrothgar Begone",
+    "Punchline": "zurel stonebrooks.",
+    "Description": "zurel stonebrooks.",
+    "IconUrl": "",
+    "ImageUrls": [
+      ""
+    ],
+    "RepoUrl": "https://github.com/TedOhBear/hrbegone",
+    "CategoryTags": [
+      "utility"
+    ],
+    "InternalName": "HrBegone",
+    "AssemblyVersion": "0.0.1",
+    "Changelog": ""
+  }
